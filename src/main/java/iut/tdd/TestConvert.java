@@ -29,4 +29,8 @@ public class TestConvert {
 	public void test_num2text_dixsept () {
 		Assert.assertEquals("dix-sept", Convert.num2text("17"));
 	}
+	@Test
+	public void test_num2text_dixneuf () {
+		Assert.assertEquals("dix-neuf", Convert.num2text("19"));
+	}
 }
