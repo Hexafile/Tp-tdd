@@ -31,13 +31,13 @@ public abstract class Hashtabl {
 		tabl.put("80", "quatre-vingt");
 		tabl.put("90", "quatre-vingt-dix");
 		tabl.put("21", "vingt-et-un");
-		tabl.put("30", "trente-et-un");
-		tabl.put("40", "quarante-et-un");
-		tabl.put("50", "cinquante-et-un");
-		tabl.put("60", "soixante-et-un");
-		tabl.put("70", "soixante-dix");
-		tabl.put("80", "quatre-vingt un");
-		tabl.put("90", "quatre-vingt");
+		tabl.put("31", "trente-et-un");
+		tabl.put("41", "quarante-et-un");
+		tabl.put("51", "cinquante-et-un");
+		tabl.put("61", "soixante-et-un");
+		tabl.put("71", "soixante-et-onze");
+		tabl.put("81", "quatre-vingt un");
+		tabl.put("91", "quatre-vingt-onze");
 		tabl.put("100", "cent");
 		tabl.put("1000", "mille");
 	}
