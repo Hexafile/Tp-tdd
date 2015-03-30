@@ -5,6 +5,7 @@ import java.util.HashMap;
 public abstract class Hashtabl {
 	public static HashMap<String, String> tabl = new HashMap<String, String>();
 	static {
+		tabl.put("", "");
 		tabl.put("0", "zéro");
 		tabl.put("1", "un");
 		tabl.put("2", "deux");
